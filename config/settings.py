@@ -1,0 +1,3 @@
+MODEL_NAME = "llama3.1:8b"
+BASE_LOG_DIR = "/var/log"
+DEFAULT_TIMEOUT = 5
